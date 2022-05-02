@@ -20,8 +20,8 @@ Much of the content of this umbrella repository is here on the [wiki](https://gi
 ## Okay I guess.. but what's the point?
 Often, specifications for standards (like networking protocols, device protocols (of which device drivers are implementations), file formats, scientific papers, irl reference books, etc.) will include a significant quantity of information that not just humans need to know but which computers desperately need (and in fact may be tedious and not so important for humans to memorize!).
 
-Converting that information into a format suitable for computer usage is the same thing as converting it into a format that abides ***perfectly*** by a regular set of rules.  Once in *any* such format, [mathematics (eg, computer code) can be used to](https://github.com/PuppyPi/semanticization/wiki/Uses),
-+ Convert it to another format
-+ Transform it
-+ Perform analysis
-+ Automatically write software from it!!
+Converting that information into a format suitable for computer usage is the same thing as converting it into a format that abides ***perfectly*** by a regular set of rules.  Once in *any* such format, mathematics (eg, computer code) can be used to,
++ [Convert it to another format](https://github.com/PuppyPi/semanticization/wiki/Uses#Converters)
++ [Transform it](https://github.com/PuppyPi/semanticization/wiki/Uses#Transformers)
++ [Perform analysis](https://github.com/PuppyPi/semanticization/wiki/Uses#Analyzers)
++ [Automatically write software from it!!](https://github.com/PuppyPi/semanticization/wiki/Uses#Code_generators)
