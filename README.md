@@ -4,7 +4,7 @@ Much of the content of this umbrella repository is here on the [wiki](https://gi
 <br/>
 ## What does "semanticization" mean?
 [semanticization](https://www.wordsense.eu/semanticization/), noun<br/>
-		1.  **Act or process of semanticizing.**<br/>
+	1.  **Act or process of semanticizing.**<br/>
 <br/>
 [semanticizing](https://www.wordsense.eu/semanticize/), verb<br/>
 	1.  **To make semantic.**<br/>
