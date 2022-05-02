@@ -1,6 +1,7 @@
 # semanticization
 Umbrella Project for all of our Semanticization projects!<br/>
 <br/>
+# What does "semanticization" mean?
 [semanticization](https://www.wordsense.eu/semanticization/), noun<br/>
 		1.  Act or process of semanticizing.<br/>
 <br/>
